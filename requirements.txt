@@ -1,0 +1,12 @@
+matplotlib
+numpy
+pandas
+seaborn
+ipywidgets
+bokeh
+jupyter-dash
+plotly
+dash
+altair
+vega_datasets
+jupyter_server_proxy
