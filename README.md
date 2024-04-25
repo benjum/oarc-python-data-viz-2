@@ -1,4 +1,4 @@
-# Spring 2023 OARC Data Visualization with Python II: Making Interactive Plots and Dashboards
+# Spring 2024 OARC Data Visualization with Python II: Making Interactive Plots and Dashboards
 
 This repository is maintained by Ben Winjum for use in UCLA OARC's introductory training class.
 
