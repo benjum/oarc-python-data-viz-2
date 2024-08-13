@@ -9,3 +9,4 @@ dash
 altair
 vega_datasets
 scikit-learn
+astropy
