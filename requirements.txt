@@ -1,12 +1,19 @@
-jupyterlab
-matplotlib
-numpy
-pandas
-seaborn
-ipywidgets
-plotly
-dash
-altair
-vega_datasets
-scikit-learn
-astropy
+# Interactive visualization workshop
+# Tested with Python 3.13 and the versions in comments (November 2026).
+jupyterlab>=4.2
+pandas>=2.2            # tested 3.1.0
+numpy>=1.26            # tested 2.5.4
+matplotlib>=3.8        # tested 3.11.2
+plotly>=6.0            # tested 7.1.0
+altair>=5.5            # tested 6.3.0
+vl-convert-python      # Altair offline HTML export
+anywidget              # Altair's offline "jupyter" renderer
+streamlit>=1.50        # tested 1.66.1
+dash>=3.0              # tested 4.5.0
+holoviews>=1.20        # tested 1.23.2
+hvplot>=0.11           # tested 0.12.2
+panel>=1.5             # tested 1.10.0
+bokeh>=3.6             # tested 3.10.0
+datashader>=0.17       # tested 0.19.1
+jupyter_bokeh
+jupyter-server-proxy
